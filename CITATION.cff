@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+bibliography:
+  - identifiers:
+      - doi: ""
+      - pmid: ""
+      - pmcid: ""
+      - hal: ""
+      - arxiv: "https://arxiv.org/abs/2209.09033"
+      - artref: ""
+      - isbn: ""
+      - url: "https://ssrn.com/abstract=4341615"
+    entryType: article
+    journalAbbreviation: Available at SSRN
+    keywords: []
+    publisher: SSRN
+    title: Cost Effective Transfer of Reinforcement Learning Policies
+    url: "https://ssrn.com/abstract=4341615"
+    author:
+      - family: Lavie
+        given: Orel
+      - family: Katz
+        given: Gilad
+      - family: Shabtai
+        given: Asaf
+    id: lavie4341615cost

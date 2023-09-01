@@ -1,21 +1,23 @@
 cff-version: 1.2.0
 message: If you use this software, please cite it as below.
+authors:
+  - family-names: Lavie
+    given-names: Orel
+  - family-names: Katz
+    given-names: Gilad
+  - family-names: Shabtai
+    given-names: Asaf
+title: Cost Effective Transfer of Reinforcement Learning Policies
+doi: ""
+url: "https://ssrn.com/abstract=4341615"
+identifiers:
+  - arxiv: "https://arxiv.org/abs/2209.09033"
+version: ""
+date-released: ""
+version-specific-recommendation: ""
 bibliography:
-  - identifiers:
-      - doi: ""
-      - pmid: ""
-      - pmcid: ""
-      - hal: ""
-      - arxiv: "https://arxiv.org/abs/2209.09033"
-      - artref: ""
-      - isbn: ""
-      - url: "https://ssrn.com/abstract=4341615"
-    entryType: article
-    journalAbbreviation: Available at SSRN
-    keywords: []
-    publisher: SSRN
+  - entryType: article
     title: Cost Effective Transfer of Reinforcement Learning Policies
-    url: "https://ssrn.com/abstract=4341615"
     author:
       - family: Lavie
         given: Orel
@@ -23,4 +25,9 @@ bibliography:
         given: Gilad
       - family: Shabtai
         given: Asaf
-    id: lavie4341615cost
+    issued:
+      date-parts:
+        - - ""
+          - ""
+    publisher: SSRN
+    url: "https://ssrn.com/abstract=4341615"

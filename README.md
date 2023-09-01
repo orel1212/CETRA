@@ -38,5 +38,13 @@ Note! Bahnsen versions are already inside pretrained_weights dir of base/metric/
 4. If you want to change any of the hyper parameters, update config.py accordingly in each version dir (comment near each hyper parameter offers the available options) <br>
 5. Have fun!
 
+## Citation
+@article{lavie2022transferable,
+  title={A Transferable and Automatic Tuning of Deep Reinforcement Learning for Cost Effective Phishing Detection},
+  author={Lavie, Orel and Shabtai, Asaf and Katz, Gilad},
+  journal={arXiv preprint arXiv:2209.09033},
+  year={2022}
+}
+
 
 

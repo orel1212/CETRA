@@ -38,4 +38,11 @@ Note! Bahnsen versions are already inside pretrained_weights dir of base/metric/
 4. If you want to change any of the hyper parameters, update config.py accordingly in each version dir (comment near each hyper parameter offers the available options) <br>
 5. Have fun!
 
-
+## Citation Paper
+'''
+@article{lavie4341615cost,
+  title={Cost Effective Transfer of Reinforcement Learning Policies},
+  author={Lavie, Orel and Katz, Gilad and Shabtai, Asaf},
+  journal={Available at SSRN 4341615}
+}
+'''

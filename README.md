@@ -24,7 +24,7 @@ Note! in attack there is currently only test without train. <br>
 Download the datasets: <br>
 [Click Here](https://drive.google.com/drive/folders/1rg5Fs638uM2eei5Z9o0xbDMTkKSkgXuB?usp=sharing) <br>
 
-5. Exp. 2 of CETRA for all 3 versions of both datasets are available there <br>
+5. Exp. 2 of CETRA for all 3 versions of both datasets is available there <br>
 Note! Bahnsen versions are already inside pretrained_weights dir of base/metric/attack for easier use  <br>
 
 6. requirements.txt <br>

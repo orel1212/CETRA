@@ -31,7 +31,7 @@ Note! Bahnsen versions are already inside pretrained_weights dir of base/metric/
 
 ## HOW TO Run
 
-1. Create conda env (recommended) and run the cmd pip install -r requirements.txt <br>
+1. Create conda env and activate it (recommended), and then run the cmd pip install -r requirements.txt <br>
 2. Download the dataset you want to run CETRA on and put it in the data folder (see no.4 in Folder Tree)  <br>
 3. cd into the dir of the version of CETRA you want to run (base/metric/attack) and run the cmd: <br>
 	python main.py <DATASET_NAME> <EXPERIMENT_NUMBER> (e.g., python main.py Wang 2 or python main.py Bahnsen 2)<br>

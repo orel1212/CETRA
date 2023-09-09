@@ -8,8 +8,8 @@ authors:
   - family-names: Shabtai
     given-names: Asaf
 title: Cost Effective Transfer of Reinforcement Learning Policies
-doi: ""
-url: "https://ssrn.com/abstract=4341615"
+doi: "https://doi.org/10.1016/j.eswa.2023.121380"
+url: "https://www.sciencedirect.com/science/article/pii/S0957417423018821}"
 identifiers:
   - arxiv: "https://arxiv.org/abs/2209.09033"
 version: ""
@@ -17,17 +17,18 @@ date-released: ""
 version-specific-recommendation: ""
 bibliography:
   - entryType: article
-    title: Cost Effective Transfer of Reinforcement Learning Policies
+    title: Cost effective transfer of reinforcement learning policies
     author:
       - family: Lavie
         given: Orel
-      - family: Katz
-        given: Gilad
       - family: Shabtai
         given: Asaf
+      - family: Katz
+        given: Gilad
     issued:
       date-parts:
-        - - ""
-          - ""
-    publisher: SSRN
-    url: "https://ssrn.com/abstract=4341615"
+        - - "2023"
+    journal: Expert Systems with Applications
+    pages: 121380
+    url: "https://www.sciencedirect.com/science/article/pii/S0957417423018821}"
+

@@ -40,9 +40,16 @@ Note! Bahnsen versions are already inside pretrained_weights dir of base/metric/
 
 ## Citation - BibTeX
 ~~~
-@article{lavie4341615cost,
-  title={Cost Effective Transfer of Reinforcement Learning Policies},
-  author={Lavie, Orel and Katz, Gilad and Shabtai, Asaf},
-  journal={Available at SSRN 4341615}
+@article{LAVIE2023121380,
+title = {Cost effective transfer of reinforcement learning policies},
+journal = {Expert Systems with Applications},
+pages = {121380},
+year = {2023},
+issn = {0957-4174},
+doi = {https://doi.org/10.1016/j.eswa.2023.121380},
+url = {https://www.sciencedirect.com/science/article/pii/S0957417423018821},
+author = {Orel Lavie and Asaf Shabtai and Gilad Katz},
+keywords = {Ensemble learning, Machine learning, Deep reinforcement learning},
+abstract = {Many challenging real-world problems require the deployment of ensemblesג€”multiple complementary learning modelsג€”to reach acceptable performance levels. While effective, applying the entire ensemble to every sample is costly and often unnecessary. Deep Reinforcement Learning (DRL) offers a cost-effective alternative, where detectors are dynamically chosen based on the output of their predecessors, with their usefulness weighted against their computational cost. Despite their potential, DRL-based solutions are not widely used in ensemble management. This can be attributed to the difficulties in configuring the reward function for each new task, the unpredictable reactions of the DRL agent to changes in the data, and the inability to use common performance metrics (e.g., True and False-Positive Rates, TPR/FPR) to guide the DRL model in a multi-objective environment. In this study, we propose methods for fine-tuning and calibrating DRL-based policies to meet multiple performance goals. Moreover, we present a method for transferring effective security policies from one dataset to another. Finally, we demonstrate that our approach is highly robust against adversarial attacks.}
 }
 ~~~
